@@ -26,3 +26,11 @@ We used an Apache server to host our application.
   </li>
   <li>  To check the word of the day you can open the page spelling.php </li>
 </ol>
+
+# Team
+This project was a team effort by
+
+| Name | GitHub Profile |
+|:---:|:---:|
+|  Arvind Srinivasan | [arvindsrinivasan](https://github.com/arvindsrinivasan) |
+|  Aveek Saha | [aveek-saha](https://github.com/aveek-saha) |
